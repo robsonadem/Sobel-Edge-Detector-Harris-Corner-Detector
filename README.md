@@ -3,10 +3,9 @@
 ## Edge Detection:
 
 I implemented the Sobel edge operator using the method shown below.
-![alt text](https://github.com/robsonadem/Sobel-Edge-Detector-Harris-Corner-Detector/image1.jpg?raw=true)
 
 ```
-Figure 1 : Sobel Edge Detection Algorithm Source Lecture Slides
+Figure 1 : Sobel Edge Detection Algorithm Source Lecture Slides 
 ```
 The combination of the smoothing of the images and the derivative filtering in x
 yields the Sobel edge operator. As such, I was able to follow the following steps
