@@ -3,6 +3,8 @@
 ## Edge Detection:
 
 I implemented the Sobel edge operator using the method shown below.
+![alt text](https://github.com/[robsonadem]/[Sobel-Edge-Detector-Harris-Corner-Detector]/image1.jpg?raw=true)
+
 ```
 Figure 1 : Sobel Edge Detection Algorithm Source Lecture Slides
 ```
