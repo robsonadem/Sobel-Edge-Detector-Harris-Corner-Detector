@@ -1,7 +1,4 @@
 # Sobel-Edge-Detector-Harris-Corner-Detector
-## Computer Vision Programming Documentation
-
-## Robson Adem
 
 ## Edge Detection:
 
