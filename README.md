@@ -3,7 +3,7 @@
 ## Edge Detection:
 
 I implemented the Sobel edge operator using the method shown below.
-![alt text](https://github.com/[robsonadem]/[Sobel-Edge-Detector-Harris-Corner-Detector]/image1.jpg?raw=true)
+![alt text](https://github.com/robsonadem/Sobel-Edge-Detector-Harris-Corner-Detector/image1.jpg?raw=true)
 
 ```
 Figure 1 : Sobel Edge Detection Algorithm Source Lecture Slides
@@ -78,10 +78,10 @@ d) Implemented the measure of corners (R) and employed thresholding
 techniques to find better corners. I have documented the results as follows.
 
 
-## Figure 5 : Results for given image 1 (R > 80)
+### Figure 5 : Results for given image 1 (R > 80)
 
 
 
-# Figure 6 : Results for given Image 2 (R > 15)
+### Figure 6 : Results for given Image 2 (R > 15)
 
 
